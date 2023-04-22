@@ -1,0 +1,5 @@
+Rias mage 480 180 50
+Inozuke beast 560 135 90
+Heimdall viking 530 110 75
+Kuro nigromante 430 180 60
+god god 1000 1000 1000
